@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Curso Crud Quasar",
+      "author": "Filipe Moura",
+      "content": "Este é um artigo sobre Vue 3, Quasar Crud e API REST"
+    },
+    {
+      "id": "2",
+      "title": "Curso Vue3",
+      "author": "Filipe Moura",
+      "content": "Este é um artigo sobre Vue3"
+    },
+    {
+      "id": "3",
+      "title": "Curso Blazor",
+      "author": "Filipe Moura",
+      "content": "Este é um artigo sobre Blazor"
+    }
+  ]
+}
